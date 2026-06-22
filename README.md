@@ -39,11 +39,13 @@ The project was created to practice Excel form design, data organization, and re
 
 ### Data Entry Form
 
-(Add screenshot here)
+<img width="1919" height="1005" alt="Screenshot 2026-06-22 083545" src="https://github.com/user-attachments/assets/e1544e9f-50a3-4cc8-b44f-2f5fe7e30011" />
+
 
 ### Database Sheet
 
-(Add screenshot here)
+<img width="1919" height="996" alt="Screenshot 2026-06-22 083608" src="https://github.com/user-attachments/assets/72e61630-c821-4d51-9196-05ea61aaba4f" />
+
 
 ## Purpose
 
